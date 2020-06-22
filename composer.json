@@ -9,5 +9,6 @@
       "invoice\\payment\\": "src/"
     }
   },
+  "license": "MIT",
   "version": "1.0"
 }
