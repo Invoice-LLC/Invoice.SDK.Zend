@@ -4,7 +4,7 @@
 
 Установите пакет через Composer:
 ```
-composer require Invoice-LLC/invoice.sdk.zend
+composer require invoice-llc/payment-zend:dev-master
 ```
 
 Перейдите в папку: **vendor/invoice-llc/zend-module/config**
