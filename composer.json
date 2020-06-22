@@ -1,5 +1,5 @@
 {
-  "name": "invoice-llc/invoice.sdk.zend",
+  "name": "invoice/payment-zend",
   "description": "Invoice Payment Module",
   "require": {
     "php": ">=5.4.0"
